@@ -5,9 +5,14 @@ Evictions have been a hot topic, especially in New York City since they enacted 
 
 # First plot about covid.
 
-There has been a significant drop in evictions in 2020 which you can see in figure 1. This is related to a law that was enacted on March 7th helping to protect tenants that suffer financial hardship due to Covid-19. Tenants have to affirm in cpurt that they have financial issues caused by the pandemic in order to stop the landlord from evicting them. This law was valid until the 15th of Janunary 2022 which is strongly noticeable in the distribution of figure 1. What is interesting is that three is still a rather low amount of evictions in 2022.
+There has been a significant drop in evictions in 2020 which you can see in figure 1. This is related to a law that was enacted on March 7th helping to protect tenants that suffer financial hardship due to Covid-19. Tenants have to affirm in court that they have financial issues caused by the pandemic in order to stop the landlord from evicting them. This law was valid until the 15th of Janunary 2022 which is strongly noticeable in the distribution of figure 1. What is interesting is that three is still a rather low amount of evictions in 2022.
 
 Maybe we can get inspiration here? https://council.nyc.gov/data/evictions/
+
+# Second Plot for Boroughs with most evictions, hotspots, (ratio with units, population), Map with years plus hotspots
+
+
+
 
 
 
