@@ -6,13 +6,17 @@ Evictions have been a hot topic, especially in New York City since they enacted 
 
 # First plot about covid.
 
-At first glance, anyone can detect that there has been a significant drop in evictions from 2020 onwards. This is related to a law that was enacted on March 7th helping to protect tenants that suffer financial hardship due to Covid-19. Tenants have to affirm in court that they have financial issues caused by the pandemic in order to stop the landlord from evicting them. This law was valid until the 15th of Janunary 2022 which is strongly noticeable in the distribution of figure 1. What is interesting is that three is still a rather low amount of evictions in 2022.
+At first glance, anyone can detect that there has been a significant drop in evictions from 2020 onwards. This is related to a law that was enacted on March 7th helping to protect tenants that suffer financial hardship due to Covid-19. Tenants have to affirm in court that they have financial issues caused by the pandemic in order to stop the landlord from evicting them. This law was valid until the 15th of Janunary 2022 which is strongly noticeable in the distribution of figure 1. What is interesting is that there is still a rather low amount of evictions in 2022.
 
 Maybe we can get inspiration here? https://council.nyc.gov/data/evictions/
 
 # Second Plot for Boroughs with most evictions, hotspots, (ratio with units, population), Map with years plus hotspots
 
-Two of the main aspects that our research is focusing on, is the "hotspot" areas for evictions in the city of New York and the intrepretation of the findings in these areas, and also, the reason why eviction rates are starting to drop even from 2017 onwards will be further explored. The eviction occurrences of the Boroughs spotlights Bronx as the borough with the most evictions having been carried out among the examined years.
+
+The two main aspects that the research is focusing and trying to give a clear interpretation about, is firstly: which are the "hotspot" areas in the  
+and the city 
+
+the "hotspot" areas for evictions in the city of New York and the intrepretation of the findings in these areas, and also, the reason why eviction rates are starting to drop even from 2017 onwards will be further explored. The eviction occurrences of the Boroughs spotlights Bronx as the borough with the most evictions having been carried out among the examined years.
 
 
 
