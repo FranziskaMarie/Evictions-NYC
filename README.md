@@ -11,6 +11,7 @@ Maybe we can get inspiration here? https://council.nyc.gov/data/evictions/
 
 # Second Plot for Boroughs with most evictions, hotspots, (ratio with units, population), Map with years plus hotspots
 
+Two of the main aspects that our research is focusing on, is the "hotspot" areas for evictions in the city of New York and the intrepretation of the findings in these areas, and also, the reason why eviction rates are starting to drop even from 2017 onwards will be further explored. The eviction occurrences of the Boroughs spotlights Bronx as the borough with the most evictions having been carried out among the examined years.
 
 
 
