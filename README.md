@@ -13,7 +13,9 @@ Maybe we can get inspiration here? https://council.nyc.gov/data/evictions/
 # Second Plot for Boroughs with most evictions, hotspots, (ratio with units, population), Map with years plus hotspots
 
 
-The two main aspects that the research is focusing and trying to give a clear interpretation about, is firstly: which are the "hotspot" areas in the city and what is the justification behind that trend and secondly: what is the reason behind why the eviction rates are starting to drop even from 2017 onwards. 
+The two main aspects that the research is focusing and trying to give a clear interpretation about, is firstly: which are the "hotspot" areas in the city and what is the justification behind that trend and secondly: what is the reason behind why the eviction rates are starting to drop even from 2017 onwards.
+
+As far as the later is concerned, additional information should be retrieved in order to better justify this "trend". In this regard, housing data together with economic data are merged, only to depict the mean household income and how it is distributed over the years. After this inspection, it was founded that household income increases in this period, answering to some extent the reason why evictions have dropped. Adding up to this, one would be interested in viualizing the rent prices over the years. As such, the corresponding information was calculated and plotted, showing that rent prices are also following an upward "trend". This information though, contradicts the main findings that evictions are decreasing. At this point, it is necessary to provide more solid information on the economic state of New York in these years in order to explain eviction incidents. Thus, it was decided to delve into the unmployment rates on those years. After isolating the civilian labor force out of the total population from the supplementary economic dataset, the unemployment rates over the the years    
 
 
 
